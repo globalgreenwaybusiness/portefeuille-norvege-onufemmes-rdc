@@ -61,3 +61,7 @@ S8 — TROIXIEME RAPPORT ETAPE janv_sept 2026 projet norvege .docx. Rapport d’
 - WPHF : accompagnement dans un processus de financement distinct, non ajouté aux engagements norvégiens.
 - Les nouvelles photographies et la vidéo ont été intégrées après réception de l’ensemble des médias.
 
+
+## En-tête WPS et identités institutionnelles
+
+Le sigle affiché devient WPS (Women, Peace and Security). Les libellés descriptifs restent en français. L’image `assets/partenaires-entete.png` est la capture `image(1).png` fournie par le propriétaire : les deux marques Norvège et ONU Femmes sont affichées en en-tête à travers un cadrage SVG, sans redessin ni modification du fichier source. La capture `image.png` identifie le sigle à remplacer. Aucune licence ouverte n’est attribuée aux marques.

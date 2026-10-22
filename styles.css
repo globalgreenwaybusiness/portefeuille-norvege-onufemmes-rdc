@@ -6,3 +6,8 @@
 
 /* New supplied media: preserve full frames and load video on demand. */
 .hero-image>img{object-fit:contain;background:#092c46}.hero-image:after{background:linear-gradient(transparent 68%,rgba(1,29,47,.96))}.project-video{margin-top:48px;padding-top:32px;border-top:1px solid #dbe3e8}.project-video video{display:block;width:100%;max-height:650px;background:#092c46;margin:24px 0 16px;aspect-ratio:16/9;object-fit:contain}.project-video h3{font-size:clamp(24px,4vw,38px)}
+
+/* Institutional marks supplied by the portfolio owner. */
+html{scroll-padding-top:160px}.nav-wrap{flex-wrap:wrap;gap:6px 20px;padding-top:12px;padding-bottom:8px}.header-logos{width:440px;max-width:55%;margin-left:auto}.header-logos svg{display:block;width:100%;height:auto}.nav-wrap>nav{flex-basis:100%;justify-content:flex-end;gap:25px;border-top:1px solid var(--line)}
+@media(max-width:900px){.header-logos{width:380px}.nav-wrap>nav{gap:18px}}
+@media(max-width:760px){html{scroll-padding-top:170px}.nav-wrap{gap:8px 16px}.brand{order:0}.menu-toggle{order:1}.header-logos{order:2;width:100%;max-width:440px;margin:0 auto}.nav-wrap>nav{order:3;flex-basis:100%;justify-content:flex-start}.header-logos svg{max-height:52px}.nav-wrap>nav.open{position:static;width:100%}}

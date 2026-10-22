@@ -411,7 +411,7 @@
       "period": "2026",
       "value": "26",
       "label": "provinces dans le suivi national",
-      "description": "Collecte et consolidation de données FPS et coordination avec le niveau national.",
+      "description": "Collecte et consolidation de données WPS et coordination avec le niveau national.",
       "theme": "Institutions",
       "province": "National",
       "source": "S8",
