@@ -18,16 +18,18 @@ S7 — Rapport Projet Norvège_Novembre 2022.docx
 
 Les rapports sont des sources transmises, pas des fichiers publics téléchargeables depuis ce site. Les articles externes référencés dans la rubrique Ressources constituent des liens de lecture complémentaires et ne se substituent pas au corpus.
 
-## Photographies
+## Photographies et vidéo actuellement publiées
 
-Images extraites des fichiers source sans altération des personnes.
+Les quatre photographies de l’ancienne version ont été remplacées par des fichiers transmis par le propriétaire du portefeuille le 22 octobre 2026. Les fichiers photo sont repris sans retouche. La date de transmission ne désigne pas la date de prise de vue. Le photographe n’a pas été indiqué ; aucun crédit de l’ancienne version n’est transféré aux nouvelles images.
 
-- `assets/dialogue.png` : S6, `word/media/image3.png`. Dialogue intergénérationnel, Kinshasa, octobre 2025 ; crédit dans le rapport : Christian Mukenge / ONU Femmes.
-- `assets/radio-femme.png` : S5, `word/media/image14.png`. Radio de la Femme, section REFEMET. Crédit : photographie reproduite dans le rapport ONU Femmes ; photographe non identifié dans le texte extrait.
-- `assets/arts-paix.png` : S5, `word/media/image26.png`. Espace d’échange et d’expression artistique, initiative UJADP. Photographe non identifié dans le texte extrait.
-- `assets/inclusion.png` : S5, `word/media/image12.png`. Activité de sensibilisation inclusive, section VIFEDE. Photographe non identifié dans le texte extrait.
+- `assets/incubateur-tanganyika.jpg` : `WhatsApp Image 2026-10-22 at 09.26.11 (1).jpeg`.
+- `assets/radio-femmes.jpg` : `WhatsApp Image 2026-10-22 at 09.26.09.jpeg`.
+- `assets/bella-lecture.jpg` : `IMG_1362.jpg`.
+- `assets/femme-debout.jpg` : `WhatsApp Image 2026-10-22 at 09.27.42.jpeg`.
 
-Aucune licence ouverte n’est attribuée aux photographies ni aux éléments institutionnels. Les droits demeurent auprès de leurs titulaires.
+- `assets/5wa-mbegu-za-amani.mp4` : « 5WA_ Mbegu za Amani - Quand l’Art et la Jeunesse bâtissent la Paix (Synthèse du Projet).mp4 ». Version de diffusion compressée, durée intégrale, audio conservé. Lecture volontaire, sans démarrage automatique. Aucun sous-titre fourni.
+
+Les légendes décrivent les éléments visibles ; les résultats du programme restent sourcés séparément. La bannière visible sur la photographie de l’incubateur indique le Tanganyika. Aucun nom de personne n’est inféré. Les droits restent auprès des titulaires ; aucune licence ouverte n’est attribuée aux médias.
 
 ## Fond géographique
 
@@ -57,4 +59,5 @@ S8 — TROIXIEME RAPPORT ETAPE janv_sept 2026 projet norvege .docx. Rapport d’
 - Stratégie genre justice : source « septembre Aout 2026 » ; mois exact non publié.
 - IFED/IFEDD et FEFEMET/REFEMET : variantes conservées dans les explications des fiches, sans création de nouveaux accords.
 - WPHF : accompagnement dans un processus de financement distinct, non ajouté aux engagements norvégiens.
-- Les photographies antérieures gardent leurs crédits et leur période ; les nouveaux médias seront intégrés après réception.
+- Les nouvelles photographies et la vidéo ont été intégrées après réception de l’ensemble des médias.
+
