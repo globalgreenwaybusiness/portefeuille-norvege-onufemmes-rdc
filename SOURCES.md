@@ -45,3 +45,16 @@ Aucune licence ouverte n’est attribuée aux photographies ni aux éléments in
 - Identifiants récents de projet non concordants entre S6 et S2 : non utilisés comme identifiant public de regroupement.
 - Les variantes UJADP, divisions du Genre et organisations récurrentes sont regroupées dans des fiches de navigation. Les codes des 22 accords restent inchangés.
 - Les effectifs 50 / 60, les taux dont le dénominateur est ambigu, les populations de couverture radio et les chiffres de plaidoyer non comparables ne sont pas utilisés comme KPI agrégés.
+
+
+## Actualisation du 22 octobre 2026
+
+S8 — TROIXIEME RAPPORT ETAPE janv_sept 2026 projet norvege .docx. Rapport d’étape III, janvier–septembre 2026. Douze indicateurs ajoutés ; résultats antérieurs conservés avec leur source.
+
+- Audience 710 000 : estimation ; 150 000 auditeurs : portée potentielle ; 950 : participations cumulées. Aucun total unique calculé.
+- Sensibilisation sanitaire Nord-Kivu : total annoncé 2 056 ; sous-groupes 980 + 680 + 210 + 158 = 2 028, et 23 personnes handicapées dont le chevauchement est inconnu. Non repris en KPI.
+- Baisse de 70 % des plaintes à Nyakasanza : base et méthode non détaillées ; non reprise en KPI.
+- Stratégie genre justice : source « septembre Aout 2026 » ; mois exact non publié.
+- IFED/IFEDD et FEFEMET/REFEMET : variantes conservées dans les explications des fiches, sans création de nouveaux accords.
+- WPHF : accompagnement dans un processus de financement distinct, non ajouté aux engagements norvégiens.
+- Les photographies antérieures gardent leurs crédits et leur période ; les nouveaux médias seront intégrés après réception.

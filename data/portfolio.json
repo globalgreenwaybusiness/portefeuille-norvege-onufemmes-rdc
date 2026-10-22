@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-22",
   "partners": [
     {
       "id": "genre-tanganyika",
       "name": "Division du Genre du Tanganyika",
       "province": "Tanganyika",
       "type": "Institution",
-      "description": "Localisation du PAN 1325 et coordination provinciale."
+      "description": "Coordination provinciale, contextualisation du plan provincial, secrétariats locaux et appui au fonctionnement de l’incubateur de paix selon S8."
     },
     {
       "id": "genre-ituri",
       "name": "Division du Genre de l’Ituri",
       "province": "Ituri",
       "type": "Institution",
-      "description": "Coordination du plan provincial et accompagnement des mécanismes Femmes, Paix et Sécurité."
+      "description": "Localisation du PAN 1325, plan provincial aligné sur le PAN de troisième génération et 22 secrétariats locaux installés selon S8."
     },
     {
       "id": "smm",
       "name": "Sauti ya Mama Mukongomani",
       "province": "Nord-Kivu",
       "type": "OSC",
-      "description": "Incubateur de paix et leadership féminin. Projet contractualisé en 2026 ; résultats de cet accord non documentés dans le corpus."
+      "description": "Incubateur de paix et leadership féminin au Nord-Kivu. Partenaire cité dans le rapport 2026 ; les résultats provinciaux ne sont pas ventilés par accord."
     },
     {
       "id": "ujadp",
       "name": "UJADP",
       "province": "Nord-Kivu",
       "type": "OSC",
-      "description": "Arts visuels, bande dessinée Bella et espaces d’apprentissage pour la paix."
+      "description": "5WA – Mbegu za Amani : arts immersifs, bande dessinée Bella, projections et sensibilisation communautaire. Vingt contenus audiovisuels diffusés selon S8."
     },
     {
       "id": "ifedd",
       "name": "IFEDD",
       "province": "Ituri",
       "type": "OSC",
-      "description": "Leadership des femmes, protection et documentation des violences dans les zones minières."
+      "description": "Leadership féminin, incubateur de paix et communication communautaire en Ituri. Le rapport S8 décrit également la mobilisation pour la prévention d’Ebola sous la variante IFED."
     },
     {
       "id": "refemet",
       "name": "REFEMET",
       "province": "Tanganyika",
       "type": "OSC",
-      "description": "Radio de la Femme et mobilisation des femmes et des filles pour la paix."
+      "description": "Radio de la Femme et leadership des femmes au Tanganyika. Partenaire 2026 cité sous la variante FEFEMET dans S8 ; les résultats provinciaux ne sont pas ventilés par accord."
     },
     {
       "id": "ffc",
@@ -55,7 +55,7 @@
       "name": "Ministère du Genre, Famille et Enfant",
       "province": "National",
       "type": "Institution",
-      "description": "Appui institutionnel et coordination nationale, notamment à travers le SN1325."
+      "description": "Coordination avec le Secrétariat national 1325, rapport national soumis à l’Union africaine et consolidation des données des 26 provinces selon S8."
     },
     {
       "id": "aprofeec",
@@ -382,6 +382,150 @@
   ],
   "results": [
     {
+      "id": "r13",
+      "phase": "p2",
+      "period": "2026",
+      "value": "3",
+      "label": "incubateurs de paix opérationnels",
+      "description": "Des espaces de formation, de mentorat et de dialogue au Nord-Kivu, en Ituri et au Tanganyika.",
+      "theme": "Participation",
+      "province": "Interprovincial",
+      "source": "S8",
+      "note": "État rapporté en 2026 ; ne pas additionner aux incubateurs décrits dans les rapports antérieurs."
+    },
+    {
+      "id": "r14",
+      "phase": "p2",
+      "period": "2026",
+      "value": "22",
+      "label": "secrétariats locaux installés en Ituri",
+      "description": "Des mécanismes de localisation de la Résolution 1325 dans les communes, territoires et chefferies.",
+      "theme": "Institutions",
+      "province": "Ituri",
+      "source": "S8",
+      "note": "Source : output 1, capacités des secrétariats provinciaux."
+    },
+    {
+      "id": "r15",
+      "phase": "p2",
+      "period": "2026",
+      "value": "26",
+      "label": "provinces dans le suivi national",
+      "description": "Collecte et consolidation de données FPS et coordination avec le niveau national.",
+      "theme": "Institutions",
+      "province": "National",
+      "source": "S8",
+      "note": "Périmètre du dispositif de suivi ; ne signifie pas une présence opérationnelle du projet dans chaque province."
+    },
+    {
+      "id": "r16",
+      "phase": "p2",
+      "period": "2026",
+      "value": "43",
+      "label": "femmes médiatrices formées",
+      "description": "Elles représentent 38 organisations de l’Ituri, du Nord-Kivu et du Sud-Kivu.",
+      "theme": "Participation",
+      "province": "Interprovincial",
+      "source": "S8",
+      "note": "Source : output 3, formation des formatrices en gestion et transformation des conflits."
+    },
+    {
+      "id": "r17",
+      "phase": "p2",
+      "period": "2026",
+      "value": "200",
+      "label": "participations aux dialogues",
+      "description": "Des dialogues organisés à Goma et Lubero autour du vivre-ensemble et du leadership féminin.",
+      "theme": "Participation",
+      "province": "Nord-Kivu",
+      "source": "S8",
+      "note": "Effectif rapporté ; unicité des personnes non établie. Distinct de l’activité de formation également chiffrée à 200."
+    },
+    {
+      "id": "r18",
+      "phase": "p2",
+      "period": "2026",
+      "value": "21",
+      "label": "femmes et jeunes filles formées",
+      "description": "Leadership et communication, avec un accompagnement intergénérationnel en Ituri.",
+      "theme": "Participation",
+      "province": "Ituri",
+      "source": "S8",
+      "note": "Source : tableau consolidé, axe mentorat. Ne pas additionner aux autres formations."
+    },
+    {
+      "id": "r19",
+      "phase": "p2",
+      "period": "2026",
+      "value": "15",
+      "label": "journalistes femmes renforcées",
+      "description": "Communication sensible au genre, messages de paix et prévention d’Ebola en Ituri.",
+      "theme": "Participation",
+      "province": "Ituri",
+      "source": "S8",
+      "note": "Le même groupe apparaît dans plusieurs passages du rapport ; compté une seule fois ici."
+    },
+    {
+      "id": "r20",
+      "phase": "p2",
+      "period": "2026",
+      "value": "20",
+      "label": "contenus audiovisuels diffusés",
+      "description": "L’approche 5WA – Mbegu za Amani mobilise les arts, la bande dessinée Bella et les projections.",
+      "theme": "Participation",
+      "province": "Nord-Kivu",
+      "source": "S8",
+      "note": "Le rapport annonce une audience estimée de 710 000 personnes ; il ne s’agit pas de bénéficiaires uniques vérifiés."
+    },
+    {
+      "id": "r21",
+      "phase": "p2",
+      "period": "2026",
+      "value": "≈ 950",
+      "label": "participations cumulées aux projections",
+      "description": "Films, dessins animés et bande dessinée Bella au service du dialogue avec les jeunes et les communautés.",
+      "theme": "Participation",
+      "province": "Nord-Kivu",
+      "source": "S8",
+      "note": "Participations cumulées, non personnes uniques. Ne pas additionner à l’audience numérique ou aux quelque 300 participants de Femme Debout."
+    },
+    {
+      "id": "r22",
+      "phase": "p2",
+      "period": "2026",
+      "value": "100",
+      "label": "défenseurs des droits humains formés",
+      "description": "Formation à la documentation numérique des violations des droits humains au Nord-Kivu.",
+      "theme": "Inclusion",
+      "province": "Nord-Kivu",
+      "source": "S8",
+      "note": "Source : tableau consolidé, protection et inclusion. Aucune donnée individuelle de protection publiée."
+    },
+    {
+      "id": "r23",
+      "phase": "p2",
+      "period": "2026",
+      "value": "> 1 500",
+      "label": "participations aux tribunes de Bunia",
+      "description": "Mobilisation communautaire pour la prévention d’Ebola, avec environ 75 % de femmes selon le rapport.",
+      "theme": "Inclusion",
+      "province": "Ituri",
+      "source": "S8",
+      "note": "Effectif rapporté dans les trois communes de Bunia. L’audience radiophonique potentielle de plus de 150 000 auditeurs est un indicateur distinct."
+    },
+    {
+      "id": "r24",
+      "phase": "p2",
+      "period": "2026",
+      "value": "150",
+      "label": "participants au dialogue sur une alliance",
+      "description": "Des responsables institutionnels et des femmes leaders mobilisés pour une future Alliance nationale des femmes pour la paix.",
+      "theme": "Participation",
+      "province": "National",
+      "source": "S8",
+      "note": "Le rapport indique 30 % d’hommes. L’Alliance est une dynamique en construction, non une institution déjà établie."
+    },
+    {
       "id": "r1",
       "phase": "p1",
       "value": "10",
@@ -556,6 +700,12 @@
       "title": "Rapport d’étape 2022",
       "period": "Janvier à novembre 2022",
       "file": "Rapport Projet Norvège_Novembre 2022.docx"
+    },
+    {
+      "id": "S8",
+      "title": "Rapport d’étape III",
+      "period": "Janvier à septembre 2026",
+      "file": "TROIXIEME RAPPORT ETAPE janv_sept 2026 projet norvege .docx"
     }
   ]
 }
